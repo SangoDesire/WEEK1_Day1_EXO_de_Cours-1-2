@@ -1,0 +1,14 @@
+p {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.para {
+    background-color: yellowgreen;
+    padding: 40px;
+    border-style: 30%;
+    margin-bottom: 15px;
+    text-align: center;
+    border: solid;
+    margin-right: 400px;
+}
